@@ -1,4 +1,4 @@
-package entities;
+package application;
 
 import java.awt.Color;
 import java.awt.Font;
